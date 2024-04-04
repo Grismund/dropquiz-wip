@@ -17,12 +17,6 @@ Here are some aspirational statements I'd like teachers to say while using DropQ
 
 ![current-page](https://github.com/Grismund/dropquiz-wip/assets/81186833/5053d339-d216-4966-bdb7-071e5ad5e8c6)
 
-## Phase I Goals
-
-Phase I should be a simple design to demo to schools.
-- Able to build quickly (static single page or page with carousel)
-- Creates a good visual first impression.
-
 ## References
 Good Designs
 - [NewsELA](https://newsela.com/) I like the simplicity of the design and how professional or non-scammy it feels compared to a lot of other educational sites.
@@ -48,10 +42,18 @@ Good Designs
 ![image](https://github.com/Grismund/dropquiz-wip/assets/81186833/aab7fc87-e985-4892-8a6d-5c2b3594e6a8)
 
 
+## Phase I: Demo
 
+Phase I should be a simple design to demo to schools.
+- Able to build quickly (static single page or page with carousel)
+- Creates a good visual first impression.
 
+### Phase I Must-Haves
 
-### Required Fields
+- [ ] Fonts
+- [ ] Color Scheme
+- [ ] Logo?
+- [ ] Mock-Ups for these below...
 - [ ] Text entry
   - [ ]  "Drop Your Text Here" Label
   - [ ]  Possible instructions in the placeholder text such as: "Copy and paste the text you want to create a quiz for here. It can be up to 10k characters long."
@@ -62,5 +64,28 @@ Good Designs
   - [ ] Some way to specify how many of each kind of question.
 - [ ] Special Instructions entry field.
 - [ ] Submit button
+- [ ] A place to display the generated text. Not sure if a modal or textarea is best.
+- [ ] Button to copy the text.
 
-### Nice to Have's
+### Phase I Nice to Have's
+
+- [ ] Hero or Carousel to introduce teachers to the concept, or maybe provide some branding...I don't really know the best use for this real estate.
+- [ ] Loading state as they wait for response
+- [ ] Logo
+
+## Phase II: Beta Testing
+
+Phase II should be a more complete design released into the wild and publicly accessible.
+
+### Phase II Must-Haves
+
+- [ ] Email capture
+- [ ] Opt in/out newsletter
+
+## Phase III: Full public release
+
+### Phase III Must-Haves
+
+- [ ] Log in/out
+- [ ] database
+- [ ] Save/edit generated questions.
